@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment5Web", "Assignment5Web\Assignment5Web.csproj", "{D97DFE0B-3739-42A6-B0AD-5671765DEC8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment5DLL", "Assignment5DLL\Assignment5DLL.csproj", "{B64920C7-0489-4FEB-9801-2285F25301B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D97DFE0B-3739-42A6-B0AD-5671765DEC8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D97DFE0B-3739-42A6-B0AD-5671765DEC8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D97DFE0B-3739-42A6-B0AD-5671765DEC8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D97DFE0B-3739-42A6-B0AD-5671765DEC8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B64920C7-0489-4FEB-9801-2285F25301B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B64920C7-0489-4FEB-9801-2285F25301B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B64920C7-0489-4FEB-9801-2285F25301B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B64920C7-0489-4FEB-9801-2285F25301B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D23E43D-D5FC-4EA2-B397-46F78B6C6A9D}
+	EndGlobalSection
+EndGlobal
